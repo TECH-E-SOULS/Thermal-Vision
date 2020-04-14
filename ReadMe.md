@@ -1,4 +1,4 @@
-# 🦠CoronaFence
+# 🦠Real Time Thermal Vision Device
 
 Thermal Camera for detecting people with high temperature
 
